@@ -1,4 +1,9 @@
-## Hi there 👋
+ Hi, I'm 1ler108 👋
+ Computer Science Student @ Unilorin | 300L
+ SIWES Data Analysis Intern @ AVITech
+
+ Tech Stack: Excel , Git
+Focus: Data Analysis 
 
 <!--
 **1ler108/1ler108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
