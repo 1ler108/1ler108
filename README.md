@@ -2,7 +2,7 @@
  Computer Science Student @ Unilorin | 300L
  SIWES Data Analysis Intern @ AVITech
 
- Tech Stack: Excel , Git
+ Tech Stack: Advanced Excel , Git.
 Focus: Data Analysis 
 
 <!--
